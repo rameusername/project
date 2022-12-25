@@ -1,0 +1,42 @@
+.luka{
+    padding-left: 220px;
+    font-size: 50px;
+}
+.divi{
+    color: rgb(0, 0, 0);
+    width: 600px;
+    left: 50%;
+    position: absolute;
+    margin-left: -250px;
+    border: 8px solid purple;
+    padding: 5px;
+    border-radius: 2%;
+    padding-inline: 20px;
+}
+.foto {
+    float:left;
+  }
+.gilaki{
+    position: fixed;
+    right: 9%;
+    top: 1%;
+}
+.gilaki2{
+    position: fixed;
+    right: 1%;
+    top: 1%;
+}
+.tarigi{
+    margin-right: 150px;
+}
+.body.tetri {
+    background-color: white;
+}
+
+.body.shavi{
+    background-color: black;
+}
+
+.body.shavi .divi{
+    color: blue;
+}
